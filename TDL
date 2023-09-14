@@ -1,0 +1,8 @@
+13SEPT2023
+For Phenotype harmonization
+[] Review chosen automatic mappings and place them in a table mapped_phenotypes with three cols (ICD,Mapping_type,HPO)
+[] Review chosen manual mapping and place them in the table above
+[] Organize the script of phenotype harmonization (place it all in one notebook) from start to end for later use? 
+
+For reviewing my cohort 
+[] Now create  diagram describing my HM13-SmV-cohort  
